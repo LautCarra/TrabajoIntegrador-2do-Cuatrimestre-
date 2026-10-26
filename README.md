@@ -6,4 +6,4 @@ Trabajo Integrador 2do Cuatrimestre 5to 2da
 - Presentacion [Canva]
 
 Alumnos: 
-Avaca Diez Felicitas, Bonfiglio Eric, Castelucci Isaias Lautaro, Carrazana Manuel Lautaro, Cristaldi Valentin Thiago.
+Avaca Diez Felicitas, Bonfiglio Eric, Castelucci Isaias Lautaro, Carrazana Manuel Lautaro, Cristaldi Thiago.
