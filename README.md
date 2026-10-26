@@ -28,7 +28,7 @@ El objetivo de este trabajo es aplicar los conocimientos adquiridos durante el a
 - Bonfiglio Eric
 - Castelucci Isaias Lautaro
 - Carrazana Manuel Lautaro
-- Cristaldi Thiago
+- Cristaldi Valentin Thiago
 
  ✅ Conclusión
 
