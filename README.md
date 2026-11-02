@@ -35,3 +35,6 @@ El objetivo de este trabajo es aplicar los conocimientos adquiridos durante el a
 Este trabajo integrador permite poner en práctica los conocimientos adquiridos durante el cuatrimestre, desarrollando habilidades de diseño, programación, organización y documentación mediante el uso de herramientas informáticas.
 
 ✨ Trabajo Integrador – 2.º Cuatrimestre | 5.º 2.ª
+
+
+https://1drv.ms/p/c/e71722fe310f5f7f/IQDWhB9vZAQaQYOc84YwncbCAdoyn-JUHrY4BXG6bcovpsM?e=6erL5M
