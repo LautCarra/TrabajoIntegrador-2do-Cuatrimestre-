@@ -26,7 +26,7 @@ El objetivo de este trabajo es aplicar los conocimientos adquiridos durante el a
 
 - Avaca Diez Felicitas
 - Bonfiglio Eric
-- Castelucci Isaias Lautaro
+- Castelucci isaias Lautaro
 - Carrazana Manuel Lautaro
 - Cristaldi Valentin Thiago
 
